@@ -1,0 +1,227 @@
+[
+    {
+      "Repository": "Test-Agent",
+      "Created": "2023-10-20",
+      "Stars": 440,
+      "Py_Files": 85,
+      "Py_Lines": 15278,
+      "Samples": 1,
+      "Domain": "Deep Learning"
+    },
+    {
+      "Repository": "skfolio",
+      "Created": "2023-12-14",
+      "Stars": 813,
+      "Py_Files": 158,
+      "Py_Lines": 33852,
+      "Samples": 13,
+      "Domain": "Statistical Learning"
+    },
+    {
+      "Repository": "camp_zipnerf",
+      "Created": "2024-01-19",
+      "Stars": 523,
+      "Py_Files": 53,
+      "Py_Lines": 18973,
+      "Samples": 54,
+      "Domain": "Image Processing"
+    },
+    {
+      "Repository": "microagents",
+      "Created": "2023-12-11",
+      "Stars": 674,
+      "Py_Files": 45,
+      "Py_Lines": 2918,
+      "Samples": 18,
+      "Domain": "Deep Learning"
+    },
+    {
+      "Repository": "open-iris",
+      "Created": "2023-12-09",
+      "Stars": 161,
+      "Py_Files": 140,
+      "Py_Lines": 13933,
+      "Samples": 14,
+      "Domain": "Image Processing"
+    },
+    {
+      "Repository": "litdata",
+      "Created": "2024-02-15",
+      "Stars": 114,
+      "Py_Files": 56,
+      "Py_Lines": 11713,
+      "Samples": 59,
+      "Domain": "Data Science"
+    },
+    {
+      "Repository": "nlm-ingestor",
+      "Created": "2024-01-17",
+      "Stars": 643,
+      "Py_Files": 56,
+      "Py_Lines": 16674,
+      "Samples": 4,
+      "Domain": "Internet"
+    },
+    {
+      "Repository": "AutoRAG",
+      "Created": "2024-01-10",
+      "Stars": 259,
+      "Py_Files": 115,
+      "Py_Lines": 7735,
+      "Samples": 13,
+      "Domain": "Data Science"
+    },
+    {
+      "Repository": "XAgent",
+      "Created": "2023-10-16",
+      "Stars": 7054,
+      "Py_Files": 148,
+      "Py_Lines": 17623,
+      "Samples": 3,
+      "Domain": "Deep Learning"
+    },
+    {
+      "Repository": "tanuki_py",
+      "Created": "2023-10-16",
+      "Stars": 606,
+      "Py_Files": 108,
+      "Py_Lines": 10146,
+      "Samples": 9,
+      "Domain": "Text Processing"
+    },
+    {
+      "Repository": "UHGEval",
+      "Created": "2023-11-06",
+      "Stars": 148,
+      "Py_Files": 34,
+      "Py_Lines": 2938,
+      "Samples": 3,
+      "Domain": "Data Science"
+    },
+    {
+      "Repository": "Generalizable-BEV",
+      "Created": "2023-10-30",
+      "Stars": 136,
+      "Py_Files": 570,
+      "Py_Lines": 132407,
+      "Samples": 8,
+      "Domain": "Image Processing"
+    },
+    {
+      "Repository": "EasyVolcap",
+      "Created": "2023-12-07",
+      "Stars": 442,
+      "Py_Files": 308,
+      "Py_Lines": 51723,
+      "Samples": 20,
+      "Domain": "Image Processing"
+    },
+    {
+      "Repository": "UniRef",
+      "Created": "2023-12-22",
+      "Stars": 208,
+      "Py_Files": 382,
+      "Py_Lines": 70042,
+      "Samples": 23,
+      "Domain": "Image Processing"
+    },
+    {
+      "Repository": "contrastors",
+      "Created": "2024-01-30",
+      "Stars": 346,
+      "Py_Files": 62,
+      "Py_Lines": 13774,
+      "Samples": 1,
+      "Domain": "Deep Learning"
+    },
+    {
+      "Repository": "gaussian-splatting-lightning",
+      "Created": "2023-10-06",
+      "Stars": 168,
+      "Py_Files": 76,
+      "Py_Lines": 9935,
+      "Samples": 1,
+      "Domain": "Image Processing"
+    },
+    {
+      "Repository": "scepter",
+      "Created": "2023-12-21",
+      "Stars": 190,
+      "Py_Files": 244,
+      "Py_Lines": 41519,
+      "Samples": 1,
+      "Domain": "Deep Learning"
+    },
+    {
+      "Repository": "microsearch",
+      "Created": "2024-02-05",
+      "Stars": 336,
+      "Py_Files": 5,
+      "Py_Lines": 231,
+      "Samples": 2,
+      "Domain": "Internet"
+    },
+    {
+      "Repository": "ollama-python",
+      "Created": "2023-12-09",
+      "Stars": 898,
+      "Py_Files": 13,
+      "Py_Lines": 2089,
+      "Samples": 12,
+      "Domain": "Deep Learning"
+    },
+    {
+      "Repository": "Python-Type-Challenges",
+      "Created": "2023-10-23",
+      "Stars": 343,
+      "Py_Files": 121,
+      "Py_Lines": 3208,
+      "Samples": 1,
+      "Domain": "Education"
+    },
+    {
+      "Repository": "stable-fast",
+      "Created": "2023-10-17",
+      "Stars": 871,
+      "Py_Files": 82,
+      "Py_Lines": 11948,
+      "Samples": 2,
+      "Domain": "Deep Learning"
+    },
+    {
+      "Repository": "stable-diffusion-webui-forge",
+      "Created": "2024-01-14",
+      "Stars": 2537,
+      "Py_Files": 1112,
+      "Py_Lines": 210946,
+      "Samples": 3,
+      "Domain": "Deep Learning"
+    },
+    {
+      "Repository": "openlogprobs",
+      "Created": "2023-11-22",
+      "Stars": 174,
+      "Py_Files": 6,
+      "Py_Lines": 524,
+      "Samples": 1,
+      "Domain": "Deep Learning"
+    },
+    {
+      "Repository": "searcharray",
+      "Created": "2023-11-03",
+      "Stars": 133,
+      "Py_Files": 25,
+      "Py_Lines": 4217,
+      "Samples": 6,
+      "Domain": "Data Science"
+    },
+    {
+      "Repository": "deluder",
+      "Created": "2023-12-01",
+      "Stars": 115,
+      "Py_Files": 34,
+      "Py_Lines": 1894,
+      "Samples": 3,
+      "Domain": "Internet"
+    }
+  ]
