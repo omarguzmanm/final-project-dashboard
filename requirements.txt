@@ -1,6 +1,5 @@
 numpy
 plotly
-scipy
 pandas
 ipykernel
 nbformat
