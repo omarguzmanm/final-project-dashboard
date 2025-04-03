@@ -1,0 +1,25 @@
+Please complete the function {function_name} based on the given context
+
+Context from Knowledge Graph:
+
+Module imports:
+{kg_imports}
+
+Global variables:
+{kg_global_variables}
+
+Function description:
+{kg_function_description}
+
+Dependencies:
+{kg_dependencies}
+
+Module/File Context:
+{kg_file_description}
+
+Related functions in module:
+{kg_related_functions}
+
+Input Code:
+```Python
+{input_code}
